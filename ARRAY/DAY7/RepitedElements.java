@@ -18,7 +18,7 @@ class RepitedElements {
             if(istrue)
         {
             break;
-        }
+        } 
         }
         
         
